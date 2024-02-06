@@ -75,3 +75,5 @@ Feel free to contribute to the project by opening issues, suggesting improvement
 
 License 📝
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+NOTE: NO SUPPORT FROM PYTHON 3.12 GOOD LUCK USING IT!

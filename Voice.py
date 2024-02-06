@@ -1,6 +1,7 @@
 import pyttsx3
 import speech_recognition as sr
 import openai
+import pyaudio
 
 # Set your OpenAI GPT-3.5 API key
 openai.api_key = ''
