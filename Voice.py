@@ -3,7 +3,7 @@ import speech_recognition as sr
 import openai
 
 # Set your OpenAI GPT-3.5 API key
-openai.api_key = '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'
+openai.api_key = 'sk-'
 
 engine = pyttsx3.init()
 rate = engine.getProperty('rate')
