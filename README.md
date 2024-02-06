@@ -4,7 +4,7 @@
 
 ### Prerequisites
 
-- Python 3.12 or later
+- Python 3.7 or later
 - Pip package manager
 - Microsoft Visual C++ Build Tools (for 'pyaudio' on Windows)
 
