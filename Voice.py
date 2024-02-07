@@ -50,6 +50,8 @@ def run_bot():
         elif 'time' in command:
             current_time = datetime.datetime.now().strftime('%I:%M %p')
             talk(engine, 'Current time is ' + current_time)
+        elif 'who are you' in command:
+            talk(engine, 'I AM PLATINUM JUBILEE ROBOT')
         elif 'who is' in command:
             person = command.replace('who is', '')
             try:
