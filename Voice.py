@@ -68,10 +68,10 @@ def run_bot():
         elif 'joke' in command:
             talk(engine, pyjokes.get_joke())
         elif 'exit' in command:
-            talk(engine, 'Goodbye!')
+            talk(engine, 'Nice talking to you, bye!')
             break
         else:
-            talk(engine, 'Please say the command again.')
+            talk(engine, 'I Dont Have The info right now, Search it on Google')
 
 if __name__ == "__main__":
     run_bot()
